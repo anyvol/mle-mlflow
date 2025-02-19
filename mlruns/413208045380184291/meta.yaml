@@ -1,0 +1,6 @@
+artifact_location: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/413208045380184291
+creation_time: 1738788147789
+experiment_id: '413208045380184291'
+last_update_time: 1738788147789
+lifecycle_stage: active
+name: feature_selection_intersection
